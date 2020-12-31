@@ -3,6 +3,7 @@ import WhatshotIcon from "@material-ui/icons/Whatshot";
 import SubscriptionsIcon from "@material-ui/icons/Subscriptions";
 import VideoLibraryIcon from "@material-ui/icons/VideoLibrary";
 import HistoryIcon from "@material-ui/icons/History";
+import thumb from './thumb.png';
 export const features = [
   {
     title: "Home",
@@ -66,3 +67,78 @@ export const theBestOfYoutube = [
         icon: <WhatshotIcon />,
     }
 ];
+
+export const videoInfo = [
+  {
+    title:
+      'Example title',
+    channel: 'Jefferson Botelho',
+    views: '19 mi de visualizações',
+    date: 'há 1 semana',
+    avatar: thumb,
+    thumb: thumb,
+  },
+  {
+    title:
+      'Example title',
+    channel: 'Jefferson Botelho',
+    views: '19 mi de visualizações',
+    date: 'há 1 semana',
+    avatar: thumb,
+    thumb: thumb,
+  },
+  {
+    title:
+      'Example title',
+    channel: 'Jefferson Botelho',
+    views: '19 mi de visualizações',
+    date: 'há 1 semana',
+    avatar: thumb,
+    thumb: thumb,
+  },
+  {
+    title:
+      'Example title',
+    channel: 'Jefferson Botelho',
+    views: '19 mi de visualizações',
+    date: 'há 1 semana',
+    avatar: thumb,
+    thumb: thumb,
+  },
+  {
+    title:
+      'Example title',
+    channel: 'Jefferson Botelho',
+    views: '19 mi de visualizações',
+    date: 'há 1 semana',
+    avatar: thumb,
+    thumb: thumb,
+  },
+  {
+    title:
+      'Example title',
+    channel: 'Jefferson Botelho',
+    views: '19 mi de visualizações',
+    date: 'há 1 semana',
+    avatar: thumb,
+    thumb: thumb,
+  },
+  {
+    title:
+      'Example title',
+    channel: 'Jefferson Botelho',
+    views: '19 mi de visualizações',
+    date: 'há 1 semana',
+    avatar: thumb,
+    thumb: thumb,
+  },
+  {
+    title:
+      'Example title',
+    channel: 'Jefferson Botelho',
+    views: '19 mi de visualizações',
+    date: 'há 1 semana',
+    avatar: thumb,
+    thumb: thumb,
+  }
+]

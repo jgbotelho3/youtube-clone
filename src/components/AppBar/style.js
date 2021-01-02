@@ -21,4 +21,8 @@ export const useStyles = makeStyles((theme) => ({
   resources: {
     paddingRight: theme.spacing(2),
   },
+  toggle:{
+    marginRight: theme.spacing(4),
+    cursor: 'pointer'
+  }
 }));

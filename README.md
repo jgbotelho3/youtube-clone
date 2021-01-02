@@ -1,8 +1,8 @@
 # Youtube Clone with Material UI
 
-![Light Mode](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![Light Mode](https://github.com/jgbotelho3/youtube-clone/blob/main/public/lightMode.png?raw=true)
 
-![Dark Mode](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![Dark Mode](https://github.com/jgbotelho3/youtube-clone/blob/main/public/darkMode.png?raw=true)
 
 ## How to use this project
 
